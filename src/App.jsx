@@ -40,7 +40,7 @@ Final Year CSE Student passionate about Full Stack Development.
 
 <h2>Contact</h2>
 
-<p>Email: yourmail@gmail.com</p>
+<p>Email: reddymeghana957@gmail.com</p>
 
 </div>
 
